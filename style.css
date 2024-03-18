@@ -12,7 +12,8 @@ body {
     height: 100%;
     overflow: hidden;
     background-color: white;
-    color: #fd5e65;
+   /* color: #fd5e65; original color*/
+    color: #035ead;
     font-size: 24vmin;
     font-family: 'Bangers', sans-serif;
     text-align: center;
